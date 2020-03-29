@@ -1,4 +1,4 @@
-# election
+# Election Analysis
 
 ## Project Overview
 A Colorado Board of Elections Employeehaas given you the following taks to complete the election audit of a recent local congressional election.
@@ -9,7 +9,7 @@ A Colorado Board of Elections Employeehaas given you the following taks to compl
 4. Calcuate the percentage of votes each candidate won
 5 Detailer the winner of hteelection
 
-## REsources
+## Resources
 - Data Source : election_Results.csv
 - Software: Python, VS Code
 
@@ -27,7 +27,7 @@ The Analysis of the election show that:
 -The winner of the election was:
   - Diana DeGette, who received 73.8 Percent of the vote and 272,892 votes
 
-##Challenge Overview
+## Challenge Overview
 
 
 ## Challenge Summary
